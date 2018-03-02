@@ -1,0 +1,15 @@
+{
+  "name": "pipe",
+  "version": "1.0.0",
+  "description": "A point free composition strategy",
+  "main": "index.js",
+  "scripts": {
+    "build": "watchify -e index.js -o build.js",
+    "watch": "watchify -e index.js -o build.js"
+  },
+  "author": "Chris Hammock",
+  "license": "ISC",
+  "devDependencies": {
+    "watchify": "^3.10.0"
+  }
+}
