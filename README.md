@@ -4,5 +4,5 @@ Piping offers an alternative to method chaining when processing data through a s
 
 
 ---
-[Function](https://github.com/crshmk/pipe/blob/master/pipe.js)
+[Function](https://github.com/crshmk/pipe/blob/master/pipe.js) | 
 [Usage](https://github.com/crshmk/pipe/blob/master/index.js)
